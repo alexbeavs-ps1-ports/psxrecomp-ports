@@ -18,10 +18,10 @@ window.CATALOG_GAMES = [
   {
     slug: "alien-resurrection", title: "Alien Resurrection", region: "Europe", serial: "SLES-02913", bios: "SCPH-5552", players: 1, playersLabel: "1 player", discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.3/alien-resurrection-recomp-0.1.3-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.3/alien-resurrection-recomp-0.1.3-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.3/alien-resurrection-recomp-0.1.3-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.3/alien-resurrection-recomp-0.1.3-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.4/alien-resurrection-recomp-0.1.4-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.4/alien-resurrection-recomp-0.1.4-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.4/alien-resurrection-recomp-0.1.4-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/alien-resurrection-recomp/releases/download/v0.1.4/alien-resurrection-recomp-0.1.4-macos-x64.zip",
     images: [["alien-resurrection/alien_resurrection_menu.jpg", "Alien Resurrection menu"], ["alien-resurrection/alien_resurrection_game.jpg", "Alien Resurrection gameplay"]]
   },
   {
@@ -45,10 +45,10 @@ window.CATALOG_GAMES = [
   {
     slug: "diablo", title: "Diablo", region: "USA (English/French/German/Swedish)", serial: "SLUS-00619", bios: "SCPH-1001", players: 2, playersLabel: "2 players", discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/diablo-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.3/diablo-recomp-0.1.3-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.3/diablo-recomp-0.1.3-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.3/diablo-recomp-0.1.3-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.3/diablo-recomp-0.1.3-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.4/diablo-recomp-0.1.4-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.4/diablo-recomp-0.1.4-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.4/diablo-recomp-0.1.4-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/diablo-recomp/releases/download/v0.1.4/diablo-recomp-0.1.4-macos-x64.zip",
     images: [["diablo/diablo_menu.jpg", "Diablo menu"], ["diablo/diablo_game.jpg", "Diablo gameplay"]]
   },
   {
@@ -72,19 +72,19 @@ window.CATALOG_GAMES = [
   {
     slug: "legacy-of-kain-soul-reaver", title: "Legacy of Kain: Soul Reaver", region: "Europe", serial: "SLES-01301", bios: "SCPH-5552", players: 1, playersLabel: "1 player", discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.3/legacy-of-kain-soul-reaver-recomp-0.1.3-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.3/legacy-of-kain-soul-reaver-recomp-0.1.3-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.3/legacy-of-kain-soul-reaver-recomp-0.1.3-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.3/legacy-of-kain-soul-reaver-recomp-0.1.3-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.4/legacy-of-kain-soul-reaver-recomp-0.1.4-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.4/legacy-of-kain-soul-reaver-recomp-0.1.4-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.4/legacy-of-kain-soul-reaver-recomp-0.1.4-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/legacy-of-kain-soul-reaver-recomp/releases/download/v0.1.4/legacy-of-kain-soul-reaver-recomp-0.1.4-macos-x64.zip",
     images: [["legacy-of-kain-soul-reaver/legacy-of-kain-soul-reaver_menu.jpg", "Legacy of Kain: Soul Reaver menu"], ["legacy-of-kain-soul-reaver/legacy-of-kain-soul-reaver_game.jpg", "Legacy of Kain: Soul Reaver gameplay"]]
   },
   {
     slug: "mdk", title: "MDK", region: "Europe", serial: "SLES-00599", bios: "SCPH-5552", players: 1, playersLabel: "1 player", discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/mdk-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.1/mdk-recomp-0.1.1-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.1/mdk-recomp-0.1.1-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.1/mdk-recomp-0.1.1-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.1/mdk-recomp-0.1.1-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.4/mdk-recomp-0.1.4-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.4/mdk-recomp-0.1.4-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.4/mdk-recomp-0.1.4-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/mdk-recomp/releases/download/v0.1.4/mdk-recomp-0.1.4-macos-x64.zip",
     images: [["mdk/mdk_menu.jpg", "MDK menu"], ["mdk/mdk_game.jpg", "MDK gameplay"]]
   },
   {
@@ -164,10 +164,10 @@ window.CATALOG_GAMES = [
   {
     slug: "spyro-the-dragon", title: "Spyro the Dragon", region: "Europe", serial: "SCES-01438", bios: "SCPH-5552", players: 1, playersLabel: "1 player", discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.3/spyro-the-dragon-recomp-0.1.3-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.3/spyro-the-dragon-recomp-0.1.3-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.3/spyro-the-dragon-recomp-0.1.3-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.3/spyro-the-dragon-recomp-0.1.3-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.4/spyro-the-dragon-recomp-0.1.4-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.4/spyro-the-dragon-recomp-0.1.4-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.4/spyro-the-dragon-recomp-0.1.4-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/spyro-the-dragon-recomp/releases/download/v0.1.4/spyro-the-dragon-recomp-0.1.4-macos-x64.zip",
     images: [["spyro-the-dragon/spyro_menu.jpg", "Spyro the Dragon menu"], ["spyro-the-dragon/spyro_game.jpg", "Spyro the Dragon gameplay"]]
   },
   {
@@ -241,10 +241,10 @@ window.CATALOG_GAMES = [
   {
     slug: "wipeout", title: "WipEout", region: "Europe", serial: "SCES-00010", bios: "SCPH-5552", players: 1, playersLabel: "1 player", discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.3/wipeout-recomp-0.1.3-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.3/wipeout-recomp-0.1.3-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.3/wipeout-recomp-0.1.3-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.3/wipeout-recomp-0.1.3-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.4/wipeout-recomp-0.1.4-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.4/wipeout-recomp-0.1.4-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.4/wipeout-recomp-0.1.4-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/wipeout-recomp/releases/download/v0.1.4/wipeout-recomp-0.1.4-macos-x64.zip",
     images: [["wipeout/wipeout_menu.jpg", "WipEout menu"], ["wipeout/wipeout_game.jpg", "WipEout gameplay"]],
     knownIssues: "Minor visible geometry gaps remain."
   },
