@@ -91,6 +91,12 @@
     return `<a class="arch-link" href="${escapeHtml(url)}" aria-label="Download ${escapeHtml(game.title)} for ${escapeHtml(platform)} (${escapeHtml(architecture)})">${escapeHtml(architecture)}</a>`;
   }
 
+  function renderRepoLink(game) {
+    if (!game.repository) return '<span class="muted">—</span>';
+
+    return `<a class="arch-link repo-link" href="${escapeHtml(game.repository)}" aria-label="Open the GitHub repository of ${escapeHtml(game.title)}">GitHub</a>`;
+  }
+
   function renderDetails(game) {
     const issues = game.knownIssues || "No title-specific issue is listed. Release-wide limits still apply.";
     const enhancements = game.enhancements || "None. This release is a bare recompilation.";
@@ -104,7 +110,7 @@
     </figure>`).join("") : '<p class="muted">Screenshots are not published for this title yet.</p>';
 
     return `<tr class="details-row" id="${escapeHtml(game.slug)}-details">
-      <td colspan="8">
+      <td colspan="9">
         <div class="game-details">
           <div class="screenshots">${screenshots}</div>
           <div class="notes">
@@ -141,6 +147,7 @@
       <td>${renderArchLink(game, "Windows", "x86-64", game.windows)}</td>
       <td>${renderArchLink(game, "Linux", "x86-64", game.linux)}</td>
       <td><div class="arch-links">${renderArchLink(game, "macOS", "arm64", game.macosArm64)}${renderArchLink(game, "macOS", "x86-64", game.macosX64)}</div></td>
+      <td>${renderRepoLink(game)}</td>
     </tr>${open ? renderDetails(game) : ""}`;
   }
 

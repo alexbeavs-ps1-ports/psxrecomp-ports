@@ -311,6 +311,7 @@ code {
 }
 
 .arch-link:hover { border-color: var(--green); color: var(--green); }
+.repo-link:hover { border-color: var(--cyan); color: var(--cyan); }
 
 .arch-links { display: flex; align-items: center; gap: .4rem; }
 .disc-count, .muted { color: var(--muted); font-size: .82rem; }
