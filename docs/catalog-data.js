@@ -127,10 +127,10 @@ window.CATALOG_GAMES = [
   {
     slug: "mortal-kombat-4", title: "Mortal Kombat 4", region: "USA", serial: "SLUS-00605", bios: "SCPH-1001", players: 2, playersLabel: "2 players", discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.6/mortal-kombat-4-recomp-0.3.6-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.6/mortal-kombat-4-recomp-0.3.6-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.6/mortal-kombat-4-recomp-0.3.6-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.6/mortal-kombat-4-recomp-0.3.6-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.7/mortal-kombat-4-recomp-0.3.7-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.7/mortal-kombat-4-recomp-0.3.7-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.7/mortal-kombat-4-recomp-0.3.7-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/mortal-kombat-4-recomp/releases/download/v0.3.7/mortal-kombat-4-recomp-0.3.7-macos-x64.zip",
     images: [["mortal-kombat-4/mortal-kombat-4_menu.jpg", "Mortal Kombat 4 menu"], ["mortal-kombat-4/mortal-kombat-4_game.jpg", "Mortal Kombat 4 gameplay"]]
   },
   {
@@ -1395,10 +1395,10 @@ window.CATALOG_GAMES = [
     playersLabel: "1 player configured",
     discs: 1,
     repository: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp",
-    windows: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.0/teambuddies-0.1.0-windows-x64.zip",
-    linux: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.0/teambuddies-0.1.0-linux-x64.zip",
-    macosArm64: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.0/teambuddies-0.1.0-macos-arm64.zip",
-    macosX64: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.0/teambuddies-0.1.0-macos-x64.zip",
+    windows: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.1/teambuddies-0.1.1-windows-x64.zip",
+    linux: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.1/teambuddies-0.1.1-linux-x64.zip",
+    macosArm64: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.1/teambuddies-0.1.1-macos-arm64.zip",
+    macosX64: "https://github.com/alexbeavs-ps1-ports/team-buddies-recomp/releases/download/v0.1.1/teambuddies-0.1.1-macos-x64.zip",
     images: [],
     knownIssues: "Wave 4 validation limits apply: Windows setup verified on the exact package; gameplay on the public packages and native Linux/macOS setup are unverified. Use the complete matching Redump CUE/BIN set (or a CHD of it) and the required SCPH-5552 BIOS. The BATTLE HILL loading after the story movie and gameplay beyond the menus are unqualified."
   },
